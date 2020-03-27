@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Socket_in_Client">
+</Property><Property Name="Solution File" Value="C:\Users\mabra\Music\C# Basic Chat Program\Socket_in_Client\Socket_in_Client.sln">
+</Property><Property Name="User Options File" Value="C:\Users\mabra\Music\C# Basic Chat Program\Socket_in_Client\Socket_in_Client.suo">
+</Property><Property Name="Date" Value="Thursday, November 21, 2019">
+</Property><Property Name="Time" Value="22:02 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Socket_in_Client.sln" Description="File successfully backed up as C:\Users\mabra\Music\C# Basic Chat Program\Socket_in_Client\Backup\Socket_in_Client.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Socket_in_Client.suo" Description="File successfully backed up as C:\Users\mabra\Music\C# Basic Chat Program\Socket_in_Client\Backup\Socket_in_Client.suo">
+</Event><Event ErrorLevel="0" Project="Socket_in_Client" Source="Socket_in_Client\Socket_in_Client.csproj" Description="Project file successfully backed up as C:\Users\mabra\Music\C# Basic Chat Program\Socket_in_Client\Backup\Socket_in_Client\Socket_in_Client.csproj">
+</Event><Event ErrorLevel="0" Project="Socket_in_Client" Source="Socket_in_Client\Client.cs" Description="File successfully backed up as C:\Users\mabra\Music\C# Basic Chat Program\Socket_in_Client\Backup\Socket_in_Client\Client.cs">
+</Event><Event ErrorLevel="0" Project="Socket_in_Client" Source="Socket_in_Client\Client.Designer.cs" Description="File successfully backed up as C:\Users\mabra\Music\C# Basic Chat Program\Socket_in_Client\Backup\Socket_in_Client\Client.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Socket_in_Client" Source="Socket_in_Client\Program.cs" Description="File successfully backed up as C:\Users\mabra\Music\C# Basic Chat Program\Socket_in_Client\Backup\Socket_in_Client\Program.cs">
+</Event><Event ErrorLevel="0" Project="Socket_in_Client" Source="Socket_in_Client\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\mabra\Music\C# Basic Chat Program\Socket_in_Client\Backup\Socket_in_Client\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Socket_in_Client" Source="Socket_in_Client\Properties\Resources.Designer.cs" Description="File successfully backed up as C:\Users\mabra\Music\C# Basic Chat Program\Socket_in_Client\Backup\Socket_in_Client\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Socket_in_Client" Source="Socket_in_Client\Properties\Settings.Designer.cs" Description="File successfully backed up as C:\Users\mabra\Music\C# Basic Chat Program\Socket_in_Client\Backup\Socket_in_Client\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Socket_in_Client" Source="Socket_in_Client\Properties\Settings.settings" Description="File successfully backed up as C:\Users\mabra\Music\C# Basic Chat Program\Socket_in_Client\Backup\Socket_in_Client\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Socket_in_Client" Source="Socket_in_Client\Client.resx" Description="File successfully backed up as C:\Users\mabra\Music\C# Basic Chat Program\Socket_in_Client\Backup\Socket_in_Client\Client.resx">
+</Event><Event ErrorLevel="0" Project="Socket_in_Client" Source="Socket_in_Client\Properties\Resources.resx" Description="File successfully backed up as C:\Users\mabra\Music\C# Basic Chat Program\Socket_in_Client\Backup\Socket_in_Client\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Socket_in_Client" Source="Socket_in_Client\Socket_in_Client.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Socket_in_Client" Source="Socket_in_Client\Socket_in_Client.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Socket_in_Client.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Socket_in_Client.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Socket_in_Client" Source="Socket_in_Client\Socket_in_Client.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
